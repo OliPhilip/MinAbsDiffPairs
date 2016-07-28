@@ -16,6 +16,6 @@ I skipped the displaying / storing of pairs, just finding and counting instead.
 compilation
 -------------
 
-GNU GCC compiler following C++11 ISO standanrd (-std=C++11).
+GNU GCC compiler following C++11 ISO standard (-std=C++11).
 
 Other meaningful option: fully optimized for speed (-O3).
